@@ -35,9 +35,9 @@ I’m deeply passionate about technology, especially in the areas of Software De
 - **Expert Systems with Applications (2025)** – *Dynamic Balanced Training Regimes: Elevating model performance through iterative training with imbalanced superset and balanced subset alternation* (**2nd Author**)
 
 ### 📘 Domestic
-- **KCC 2024** – *TabNet Classifier for Anomaly Detection*  
-- **KSC 2024** – *Efficient Malware Detection Using RNNs*  
-- **KCC 2025** – *DNN-Based IDS for Multi-Class Imbalanced Data*
+- **KCC 2024** – *A TabNet Classifier Approach for Anomaly Detection in Network Security*  
+- **KSC 2024** – *Efficient Malware Detection Through RNNs and Balanced Dataset*  
+- **KCC 2025** – *A Deep Neural Network-Based Intrusion Detection System For Multi-Class Classification on Imbalanced Data*
 
 ---
 
