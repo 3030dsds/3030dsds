@@ -92,7 +92,7 @@ I’m deeply passionate about technology, especially in the areas of Software De
 
 - ✉️ Email: amirjon7@khu.ac.kr  
 - 🌐 Lab Website: [networking.khu.ac.kr](http://networking.khu.ac.kr)  
-- 📍 Location: Ansan-si, Gyeonggi-do, South Korea  
+- 📍 Home adress: Ansan-si, Gyeonggi-do, South Korea  
 - 📱 Phone: (+82) 010-6453-3338
 
 ---
