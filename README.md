@@ -13,9 +13,8 @@ I’m deeply passionate about technology, especially in the areas of Software De
 - **M.Sc. in Computer Science and Engineering**  
   Kyung Hee University, South Korea (2023 – 2025)  
   ▪ Research in AI-based network security and machine learning  
-  ▪ Working under Prof. Choong Seon Hong at the Networking Intelligence Lab   
+  ▪ Working under Prof. Choong Seon Hong at the Networking Intelligence Lab 🌐 [networking.khu.ac.kr](http://networking.khu.ac.kr) 
   ▪ Graduation expected: August 27, 2025
-  - 🌐 Lab Website: [networking.khu.ac.kr](http://networking.khu.ac.kr) 
 
 - **Korean Language Program**  
   Daegu University, South Korea (2022 – 2023)  
