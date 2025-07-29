@@ -32,7 +32,7 @@ I’m deeply passionate about technology, especially in the areas of Software De
 
 ### 📚 International
 - **ICACT 2025** – _“An Enhanced Intrusion Detection Model with FeedForward Neural Network Classifier”_ – 🥇 **Outstanding Paper Award**  
-- **Expert Systems with Applications (2025)** – *Dynamic Balanced Training Regimes: Elevating model performance through iterative training with imbalanced superset and balanced subset alternation* (2nd Author)
+- **Expert Systems with Applications (2025)** – *Dynamic Balanced Training Regimes: Elevating model performance through iterative training with imbalanced superset and balanced subset alternation* (**2nd Author**)
 
 ### 📘 Domestic
 - **KCC 2024** – *TabNet Classifier for Anomaly Detection*  
